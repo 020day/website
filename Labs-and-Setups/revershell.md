@@ -38,3 +38,4 @@ exploit
 ``` 
 making changes kali to windows machine
 next run the payload from windows machine
+making changes windows to kali machine

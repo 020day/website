@@ -1,45 +1,13 @@
-##BLOODHOUND
+# BloodHound
 
-1.This is the diagram how bloodhound/neo4j and sharphound will works
-Diagram link - https://claude.ai/public/artifacts/fdc45792-13f6-470c-81dd-601e22ef0106
+\##BLOODHOUND
 
-![alt text](image-4.png)
+1.This is the diagram how bloodhound/neo4j and sharphound will works Diagram link - https://claude.ai/public/artifacts/fdc45792-13f6-470c-81dd-601e22ef0106
 
-- tools used in this diagram
-  - BloodHound
-  - Neo4j
-  - SharpHound
+![alt text](<../../../../.gitbook/assets/image-4 (3).png>)
 
--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* tools used in this diagram
+  * BloodHound
+  * Neo4j
+  * SharpHound
+*

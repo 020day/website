@@ -25,3 +25,17 @@ Requirement files
 
 10. now select number 5 ![alt text](<../../../.gitbook/assets/image-2 (5).png>)
 11. Now try options 2, option 3, option 4 ![alt text](<../../../.gitbook/assets/image-3 (5).png>) and check which option works for you.
+
+# 2nd EASY METHOD Microsoft office or Office 365 setup and key 
+1. Downloade this file ----->  [Microsoft Office 365 Setup File]()
+2. Extract the office 365 setup file.
+3. open the command prompt  and 
+
+
+
+
+
+
+
+
+

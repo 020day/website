@@ -27,9 +27,11 @@ Requirement files
 11. Now try options 2, option 3, option 4 ![alt text](<../../../.gitbook/assets/image-3 (5).png>) and check which option works for you.
 
 # 2nd EASY METHOD Microsoft office or Office 365 setup and key 
-1. Downloade this file ----->  [Microsoft Office 365 Setup File]()
-2. Extract the office 365 setup file.
-3. open the command prompt  and 
+1. Downloade this file ----->  [Microsoft Office 365 Setup File](Labs-and-Setups/Tools-sotwares_and_Keys/MS_office/Setup/Files/setup.exe) a file of office 365 setup will be downloaded
+2. Extract the "office 365 setup" file.
+3. open the command prompt run as Administrator, then go to the folder office 365 setup
+4. there you need to see like below<img width="1391" height="456" alt="image" src="https://github.com/user-attachments/assets/ecf255cf-24e2-493a-8c56-b1d029513e7d" /> and 
+
 
 
 

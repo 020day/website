@@ -32,14 +32,18 @@ Requirement files
 2. Extract the "office 365 setup" file in to a folder in this folder create a folder named "Office 365 Setup"
 3. open the command prompt run as Administrator, then go to the folder "office 365 setup"
 4. there you need to see the files like as below images ![alt text](<Setup/Images/proof 2.png>) ![alt text](<Setup/Images/proof 1.png>)
-5. Now Type this below command in Command Prompt 
+5. Now Type this below command in Command Prompt like in below image
+6. ![alt text](<Setup/Images/proof 3.png>)
    > setup.exe /configure configuration.xml
-6. Now Office setup applicatoin will start running and once the setup is ready try login with your office mail id or personal mail id
-7. if it asks for a key You can try this key > Y63J7-9RNDJ-GD3BV-BDKBP-HH966
-8. For activation open power shell as administrator type the command
+7. Now Office setup applicatoin will start running and installation will start
+8. Once the setup is ready try login with your Any G-Mail id or personal mail id
+9. if it asks for a key You can try this below key 
+    > Y63J7-9RNDJ-GD3BV-BDKBP-HH966
+10. if the key dowsnt works now try the activation process
+11. For activation open power shell as administrator type the command then a command prompt will open
 
 > irm https://get.activated.win | iex
 
-9. now select number 5 ![alt text](<../../../.gitbook/assets/image-2 (5).png>)   
+9. Now select number 5 ![alt text](<../../../.gitbook/assets/image-2 (5).png>)   
 10. Now try options 2, option 3, option 4 ![alt text](<../../../.gitbook/assets/image-3 (5).png>) and check which option works for you.   
 

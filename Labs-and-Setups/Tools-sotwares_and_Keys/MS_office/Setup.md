@@ -27,8 +27,19 @@ Requirement files
 11. Now try options 2, option 3, option 4 ![alt text](<../../../.gitbook/assets/image-3 (5).png>) and check which option works for you.
 
 # 2nd EASY METHOD Microsoft office or Office 365 setup and key 
+
 1. Downloade this file ----->  [Microsoft Office 365 Setup File](Labs-and-Setups/Tools-sotwares_and_Keys/MS_office/Setup/Files/setup.exe) a file of office 365 setup will be downloaded
 2. Extract the "office 365 setup" file.
 3. open the command prompt run as Administrator, then go to the folder office 365 setup
-4. there you need to see like below  [Alt text for screen readers](Labs-and-Setups/Tools-sotwares_and_Keys/MS_office/Setup/Images/proof1.png)
+4. there you nee![alt text](<Setup/Images/proof 2.png>) [alt text](Setup.md)d to see like below  ![alt text](<Setup/Images/proof 1.png>)
+5. Type this below command in Command Prompt 
+   > setup.exe /configure configuration.xml
+6. Now Office setup applicatoin will start running and once the setup is ready try login with your office mail id or personal mail id
+7. if it asks for a key You can try this key > Y63J7-9RNDJ-GD3BV-BDKBP-HH966
+8. For activation open power shell as administrator type the command
+
+> irm https://get.activated.win | iex
+
+9. now select number 5 ![alt text](<../../../.gitbook/assets/image-2 (5).png>)   
+10. Now try options 2, option 3, option 4 ![alt text](<../../../.gitbook/assets/image-3 (5).png>) and check which option works for you.   
 

@@ -28,11 +28,11 @@ Requirement files
 
 # 2nd EASY METHOD Microsoft office or Office 365 setup and key 
 
-1. Downloade this file ----->  [Microsoft Office 365 Setup File](Labs-and-Setups/Tools-sotwares_and_Keys/MS_office/Setup/Files/setup.exe) a file of office 365 setup will be downloaded
-2. Extract the "office 365 setup" file.
-3. open the command prompt run as Administrator, then go to the folder office 365 setup
-4. there you need ![alt text](<Setup/Images/proof 2.png>) ![alt text](<Setup/Images/proof 1.png>)
-5. Type this below command in Command Prompt 
+1. Downloade this file ----->  [Microsoft Office 365 Setup File](Labs-and-Setups/Tools-sotwares_and_Keys/MS_office/Setup/Files/setup.exe) a file of office 365 setup will be downloaded.
+2. Extract the "office 365 setup" file in to a folder in this folder create a folder named "Office 365 Setup"
+3. open the command prompt run as Administrator, then go to the folder "office 365 setup"
+4. there you need to see as below images ![alt text](<Setup/Images/proof 2.png>) ![alt text](<Setup/Images/proof 1.png>)
+5. Now Type this below command in Command Prompt 
    > setup.exe /configure configuration.xml
 6. Now Office setup applicatoin will start running and once the setup is ready try login with your office mail id or personal mail id
 7. if it asks for a key You can try this key > Y63J7-9RNDJ-GD3BV-BDKBP-HH966

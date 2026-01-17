@@ -31,7 +31,7 @@ Requirement files
 1. Downloade this file ----->  [Microsoft Office 365 Setup File](Labs-and-Setups/Tools-sotwares_and_Keys/MS_office/Setup/Files/setup.exe) a file of office 365 setup will be downloaded
 2. Extract the "office 365 setup" file.
 3. open the command prompt run as Administrator, then go to the folder office 365 setup
-4. there you nee![alt text](<Setup/Images/proof 2.png>) [alt text](Setup.md)d to see like below  ![alt text](<Setup/Images/proof 1.png>)
+4. there you need [alt text](<Setup/Images/proof 2.png>) [alt text](Setup.md)d to see like below  ![alt text](<Setup/Images/proof 1.png>)
 5. Type this below command in Command Prompt 
    > setup.exe /configure configuration.xml
 6. Now Office setup applicatoin will start running and once the setup is ready try login with your office mail id or personal mail id

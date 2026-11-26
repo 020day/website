@@ -1,0 +1,13 @@
+[project]
+site_name = "020DAY Knowledge Base"
+site_description = "Technical Documentation and Knowledge Base"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+features = [
+    "navigation.sections",
+    "navigation.expand",
+    "search.suggest",
+    "search.highlight"
+]
